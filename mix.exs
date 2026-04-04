@@ -60,6 +60,7 @@ defmodule LineageIR.MixProject do
       maintainers: ["North-Shore-AI"],
       files: [
         "lib",
+        "assets",
         "mix.exs",
         "README.md",
         "CHANGELOG.md",
