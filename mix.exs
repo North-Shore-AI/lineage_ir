@@ -64,7 +64,8 @@ defmodule LineageIR.MixProject do
         "mix.exs",
         "README.md",
         "CHANGELOG.md",
-        "LICENSE"
+        "LICENSE",
+        "guides"
       ]
     ]
   end
